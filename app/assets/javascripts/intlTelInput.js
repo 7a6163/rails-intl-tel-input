@@ -1,4 +1,4 @@
-//= require intlTelInput/intlTelInput
+//= require intlTelInput/intlTelInput-jquery
 //= require intlTelInput/utils
 
 (function ($) {
